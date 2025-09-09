@@ -1,5 +1,5 @@
 langchain
-lagchain-openai
+langchain-openai
 langchain-google-genai
 python-dotenv
 beautifulsoup4
